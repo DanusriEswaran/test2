@@ -1,1 +1,1 @@
-hello. this is another file which is located on branch 2 (i.e., feature_2)
+hello. this is another etxt file
